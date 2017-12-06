@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using BibliotecaBicicletas;
 using BibliotecaPersonal;
+using BibliotecaOfertas;
 
 namespace BibliotecaDAL
 {
@@ -19,6 +20,7 @@ namespace BibliotecaDAL
 
         DbSet<Usuario> Usuario { get; set; }
         DbSet<bicicleta> Bicicletas { get; set; }
+        DbSet<oferta> ofertas { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

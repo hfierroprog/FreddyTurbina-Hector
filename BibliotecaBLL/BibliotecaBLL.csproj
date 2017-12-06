@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BicicletaCommand.cs" />
+    <Compile Include="OfertaCommand.cs" />
     <Compile Include="PersonalCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -52,6 +53,10 @@
     <ProjectReference Include="..\BibliotecaDAL\BibliotecaDAL.csproj">
       <Project>{e72c1331-074b-4cbc-b7b1-6994f668986e}</Project>
       <Name>BibliotecaDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BibliotecaOfertas\BibliotecaOfertas.csproj">
+      <Project>{57a7ada5-3222-4146-8151-25b64a347301}</Project>
+      <Name>BibliotecaOfertas</Name>
     </ProjectReference>
     <ProjectReference Include="..\BibliotecaPersonal\BibliotecaPersonal.csproj">
       <Project>{a44af367-faab-4cfd-b3e9-ece0d744aeb5}</Project>

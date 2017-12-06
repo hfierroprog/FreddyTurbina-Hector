@@ -4,3 +4,8 @@ C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\Biblio
 C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\BibliotecaOfertas.dll
 C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\BibliotecaOfertas.pdb
 C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\BibliotecaOfertas.csprojResolveAssemblyReference.cache
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\bin\Release\BibliotecaOfertas.dll
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\bin\Release\BibliotecaOfertas.pdb
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\BibliotecaOfertas.csprojResolveAssemblyReference.cache
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\BibliotecaOfertas.dll
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\BibliotecaOfertas.pdb

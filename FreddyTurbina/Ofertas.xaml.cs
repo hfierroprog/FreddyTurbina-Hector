@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using BibliotecaOfertas;
+using BibliotecaBLL;
+
 
 namespace FreddyTurbina
 {
@@ -20,6 +22,8 @@ namespace FreddyTurbina
     /// </summary>
     public partial class Ofertas : Window
     {
+        //Creamos objeto ofertaCommand
+        OfertaCommand ocmd = new OfertaCommand();
         //Creamos objeto de tipo oferta
         oferta oferta1;
         oferta oferta2;
@@ -37,10 +41,10 @@ namespace FreddyTurbina
         public void init()
         {
             //Se instancia objeto de tipo oferta
-            oferta1 = new oferta(55000, "Oxford", 20, "Bicicleta pequeña");
-            oferta2 = new oferta(100000, "GT", 26, "Bicicleta grande");
-            oferta3 = new oferta(130000, "Giant", 27, "Bicicleta grande");
-            oferta4 = new oferta(220000, "Trek", 24, "Bicicleta mediana");
+            oferta1 = ocmd.Get(1);
+            oferta2 = ocmd.Get(2);
+            oferta3 = ocmd.Get(3);
+            oferta4 = ocmd.Get(4);
         }
 
         //Se muestran los objetos de tipo oferta

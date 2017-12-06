@@ -71,6 +71,10 @@
       <Project>{8b3967cb-ccce-4775-83e0-d7b5b221b79e}</Project>
       <Name>BibliotecaBicicleta</Name>
     </ProjectReference>
+    <ProjectReference Include="..\BibliotecaOfertas\BibliotecaOfertas.csproj">
+      <Project>{57a7ada5-3222-4146-8151-25b64a347301}</Project>
+      <Name>BibliotecaOfertas</Name>
+    </ProjectReference>
     <ProjectReference Include="..\BibliotecaPersonal\BibliotecaPersonal.csproj">
       <Project>{a44af367-faab-4cfd-b3e9-ece0d744aeb5}</Project>
       <Name>BibliotecaPersonal</Name>

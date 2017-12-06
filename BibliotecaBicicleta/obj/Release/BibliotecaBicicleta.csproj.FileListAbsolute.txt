@@ -3,3 +3,8 @@ C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\bin\Release\Bibl
 C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Release\BibliotecaBicicleta.csproj.CoreCompileInputs.cache
 C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Release\BibliotecaBicicleta.dll
 C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Release\BibliotecaBicicleta.pdb
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\bin\Release\BibliotecaBicicleta.dll
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\bin\Release\BibliotecaBicicleta.pdb
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Release\BibliotecaBicicleta.csprojResolveAssemblyReference.cache
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Release\BibliotecaBicicleta.dll
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Release\BibliotecaBicicleta.pdb
