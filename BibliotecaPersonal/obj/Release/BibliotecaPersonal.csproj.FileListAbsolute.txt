@@ -1,0 +1,6 @@
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaPersonal\bin\Release\BibliotecaPersonal.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaPersonal\bin\Release\BibliotecaPersonal.pdb
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaPersonal\obj\Release\BibliotecaPersonal.csprojResolveAssemblyReference.cache
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaPersonal\obj\Release\BibliotecaPersonal.csproj.CoreCompileInputs.cache
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaPersonal\obj\Release\BibliotecaPersonal.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaPersonal\obj\Release\BibliotecaPersonal.pdb

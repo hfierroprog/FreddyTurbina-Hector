@@ -1,0 +1,5 @@
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\bin\Debug\BibliotecaBicicleta.dll
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\bin\Debug\BibliotecaBicicleta.pdb
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Debug\BibliotecaBicicleta.csprojResolveAssemblyReference.cache
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Debug\BibliotecaBicicleta.dll
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Debug\BibliotecaBicicleta.pdb

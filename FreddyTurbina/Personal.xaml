@@ -1,0 +1,38 @@
+﻿<Window x:Class="FreddyTurbina.Personal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FreddyTurbina"
+        mc:Ignorable="d"
+        Title="Personal" Height="637" Width="643" Background="#FF303F9F">
+    <Grid RenderTransformOrigin="0.395,0.479">
+        <Label Content="Personal" HorizontalAlignment="Left" Margin="266,10,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="24" FontStyle="Italic"/>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="107,79,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" FontFamily="Global Sans Serif"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="22" Margin="193,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" Background="#FFFF4081" Foreground="White"/>
+        <Label Content="Apellido Paterno:" HorizontalAlignment="Left" Margin="320,79,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" FontFamily="Global Sans Serif"/>
+        <TextBox x:Name="txtAppaterno" HorizontalAlignment="Left" Height="23" Margin="436,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" Background="#FFFF4081" Foreground="White"/>
+        <Label Content="Apellido Materno:" HorizontalAlignment="Left" Margin="67,120,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" FontFamily="Global Sans Serif"/>
+        <TextBox x:Name="txtApmaterno" HorizontalAlignment="Left" Height="22" Margin="193,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" Background="#FFFF4081" Foreground="White"/>
+        <Label Content="Rut:" HorizontalAlignment="Left" Margin="331,120,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" FontFamily="Global Sans Serif"/>
+        <TextBox x:Name="txtRut" HorizontalAlignment="Left" Height="22" Margin="370,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170" Background="#FFFF4081" Foreground="White"/>
+        <Label Content="Fecha de nacimiento:" HorizontalAlignment="Left" Margin="42,158,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" FontFamily="Global Sans Serif"/>
+        <Label Content="AFP:" HorizontalAlignment="Left" Margin="49,207,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" Width="47" FontFamily="Global Sans Serif"/>
+        <ComboBox x:Name="cboAfp" HorizontalAlignment="Left" Margin="101,205,0,0" VerticalAlignment="Top" Width="89" RenderTransformOrigin="0.533,0.409" Background="#FFFF4081" Foreground="Black" BorderBrush="#FFB44040" Height="29"/>
+        <Label Content="Isapre:" HorizontalAlignment="Left" Margin="221,206,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" FontFamily="Global Sans Serif" Width="57"/>
+        <ComboBox x:Name="cboIsapre" HorizontalAlignment="Left" Margin="276,204,0,0" VerticalAlignment="Top" Width="82" RenderTransformOrigin="0.533,0.409" Background="#FFFF4081" Foreground="Black" BorderBrush="{x:Null}" Height="29"/>
+        <Label Content="Nacionalidad:" HorizontalAlignment="Left" Margin="373,206,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" FontFamily="Global Sans Serif" Width="103"/>
+        <ComboBox x:Name="cboNacionalidad" HorizontalAlignment="Left" Margin="474,206,0,0" VerticalAlignment="Top" Width="64" RenderTransformOrigin="0.533,0.409" Background="#FFFF4081" Foreground="Black" BorderBrush="{x:Null}" Height="29"/>
+        <Label Content="Sueldo Bruto:" HorizontalAlignment="Left" Margin="95,256,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" FontFamily="Global Sans Serif"/>
+        <TextBox x:Name="txtSueldobru" HorizontalAlignment="Left" Height="22" Margin="193,261,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" Background="#FFFF4081" Foreground="White"/>
+        <Label Content="Sueldo Liquido:" HorizontalAlignment="Left" Margin="328,256,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" FontFamily="Global Sans Serif"/>
+        <TextBox x:Name="txtSueldoliq" HorizontalAlignment="Left" Height="22" Margin="433,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107" Background="#FFFF4081" Foreground="White"/>
+        <DataGrid x:Name="dgResultados" HorizontalAlignment="Left" Height="220" Margin="107,364,0,0" VerticalAlignment="Top" Width="445" FontFamily="Global Sans Serif" Background="#FFFF4081" Foreground="Black"/>
+        <Calendar HorizontalAlignment="Left" Height="4" Margin="-398,79,0,0" VerticalAlignment="Top" Width="0"/>
+        <Button x:Name="btnAgregar" Content="Agregar" HorizontalAlignment="Left" Margin="245,312,0,0" VerticalAlignment="Top" Width="169" Height="35" FontSize="18" Background="#FFFF4081" Foreground="White" FontFamily="Global Sans Serif" Click="btnAgregar_Click"/>
+        <DatePicker x:Name="dteNacimiento" HorizontalAlignment="Left" Margin="193,158,0,0" VerticalAlignment="Top" Background="#FFFF4081" Width="119" Text="Fecha+"/>
+        <Label Content="Contratacion:" HorizontalAlignment="Left" Margin="328,156,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="White" FontSize="14" FontFamily="Global Sans Serif"/>
+        <DatePicker x:Name="dteContrato" HorizontalAlignment="Left" Margin="420,157,0,0" VerticalAlignment="Top" Background="#FFFF4081" Width="119" Text="Fecha+"/>
+
+    </Grid>
+</Window>

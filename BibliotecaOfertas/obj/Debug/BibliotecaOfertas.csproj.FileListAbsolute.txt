@@ -1,0 +1,4 @@
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\bin\Debug\BibliotecaOfertas.dll
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\bin\Debug\BibliotecaOfertas.pdb
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Debug\BibliotecaOfertas.dll
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Debug\BibliotecaOfertas.pdb

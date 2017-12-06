@@ -1,0 +1,4 @@
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaPersonal\bin\Debug\BibliotecaPersonal.dll
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaPersonal\bin\Debug\BibliotecaPersonal.pdb
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaPersonal\obj\Debug\BibliotecaPersonal.dll
+C:\Users\LAB-202\Desktop\FreddyTurbina-Hector\BibliotecaPersonal\obj\Debug\BibliotecaPersonal.pdb

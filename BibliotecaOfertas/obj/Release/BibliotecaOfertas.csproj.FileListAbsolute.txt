@@ -1,0 +1,6 @@
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\bin\Release\BibliotecaOfertas.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\bin\Release\BibliotecaOfertas.pdb
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\BibliotecaOfertas.csproj.CoreCompileInputs.cache
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\BibliotecaOfertas.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\BibliotecaOfertas.pdb
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaOfertas\obj\Release\BibliotecaOfertas.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\bin\Release\BibliotecaBicicleta.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\bin\Release\BibliotecaBicicleta.pdb
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Release\BibliotecaBicicleta.csproj.CoreCompileInputs.cache
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Release\BibliotecaBicicleta.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBicicleta\obj\Release\BibliotecaBicicleta.pdb

@@ -1,0 +1,15 @@
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\BibliotecaBLL.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\BibliotecaBLL.pdb
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\BibliotecaDAL.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\BibliotecaPersonal.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\EntityFramework.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\BibliotecaBicicleta.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\BibliotecaDAL.pdb
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\BibliotecaDAL.dll.config
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\BibliotecaPersonal.pdb
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\EntityFramework.xml
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\bin\Release\BibliotecaBicicleta.pdb
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\obj\Release\BibliotecaBLL.csprojResolveAssemblyReference.cache
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\obj\Release\BibliotecaBLL.csproj.CoreCompileInputs.cache
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\obj\Release\BibliotecaBLL.dll
+C:\Users\bebee\Desktop\FreddyTurbina-Hector\BibliotecaBLL\obj\Release\BibliotecaBLL.pdb
